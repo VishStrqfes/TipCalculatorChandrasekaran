@@ -18,7 +18,6 @@ public class TipCalculatorActivity extends AppCompatActivity {
     private Button calculateButton;
     private String bill;
     private String tip;
-    DecimalFormat decimalFormat = new DecimalFormat("$##.00");
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
