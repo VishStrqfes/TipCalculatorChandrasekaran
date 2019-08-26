@@ -18,6 +18,7 @@ public class TipCalculatorActivity extends AppCompatActivity {
     private Button calculateButton;
     private String bill;
     private String tip;
+    String s;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
